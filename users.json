@@ -1,0 +1,23 @@
+{"users":[
+{	"first_name":"John",
+	"last_name ":"Doe",
+	"[hone_number":"76203511900",
+	"userid":"johndoe",
+	"password":"password123",
+	"degree":{
+		"major":"Computer science",
+		"Graduation_year":2025
+}
+},
+{	"first_name":"Jane",
+	"last_name ":"singh",
+	"phone_number":"1234511900",
+	"userid":"janesingh",
+	"password":"passwordabc",
+	"degree":{
+		"major":"information Technology",
+		"Graduation_year":2026
+}
+}
+]
+}

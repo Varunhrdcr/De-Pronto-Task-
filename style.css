@@ -1,0 +1,36 @@
+body{
+    font-family: Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-top: 20px;
+}
+
+input{
+    margin-bottom: 25px;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+#errorMessage, .error-meaage{
+    color: red;
+}
+table{
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
